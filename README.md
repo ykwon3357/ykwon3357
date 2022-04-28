@@ -19,10 +19,10 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ykwon3357"/>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ykwon3357)](https://solved.ac/ykwon3357)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ykwon3357)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykwon3357&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 How to reach me: ykwon3357@naver.com
 
