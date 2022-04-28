@@ -1,9 +1,8 @@
+<div align="center">
+  
 ## ✨  ABOUT ME ✨
-
 <br/>
-
-- 👩🏻‍💻 Back-End Developer
-
+👩🏻‍💻 Back-End Developer
 <br/>
 
 ## ⚒  SKILLS ⚒
@@ -20,13 +19,12 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
-<img align="left" src="http://mazassumnida.wtf/api/generate_badge?boj=ykwon3357"/>
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=ykwon3357"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ykwon3357"/>
 
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 📫 How to reach me: ykwon3357@naver.com
-
+</div>
 <!--
 **ykwon3357/ykwon3357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
