@@ -20,11 +20,12 @@
 
  <table>
   <tr>
-    <td><img src="http://mazassumnida.wtf/api/generate_badge?boj=ykwon3357"/></td>
+    <td><img src="https://mazassumnida.wtf/api/generate_badge?boj=ykwon3357"/></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ykwon3357"/></td>
   <tr>
 </table>
-
+🌱 I’m currently learning ... <a href="https://gregarious-basil-f8b.notion.site/MSA-b41ad08626aa416ea064b083ed8e24a4">MSA</a>
+<br/>
 📫 How to reach me: ykwon3357@naver.com
 </div>
 <!--
